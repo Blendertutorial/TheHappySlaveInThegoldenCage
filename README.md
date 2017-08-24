@@ -5,3 +5,5 @@ Mit dieser Arbeit möchte ich mich mit dem Verhältnis zwischen Bequemlichkeit u
 Hierfür plane ich eine möglichst photorealistisch wirkende Darstellung.
 
 ![aktueller Stand als gerendertes Bild](TheHappySlaveInThegoldenCage.png)
+
+Tolles Blender File - mehr davon!
